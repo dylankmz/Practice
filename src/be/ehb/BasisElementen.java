@@ -19,6 +19,8 @@ public class BasisElementen {
 
         System.out.println("Willekeurig getal tussen het bereik van 1 en 10: " + RandomNumber);
 
+        System.out.println("HelloWorld");
+
     }
 }
 
